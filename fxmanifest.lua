@@ -29,4 +29,6 @@ dependencies {
     'oxmysql'
 }
 
+export 'UsedWeapons'
+
 lua54 'yes'
